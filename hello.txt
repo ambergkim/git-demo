@@ -5,15 +5,4 @@ I like mangoes.
 
 changes from the new branch
 
-rebase change1
-
-rebase change 2
-
-
-branch 5, change 1
-
-branch 5, change 2
-
-branch 5, change 3
-
-branch 5, second commit
+rebase 2 change 1
