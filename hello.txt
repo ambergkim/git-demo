@@ -6,3 +6,5 @@ I like mangoes.
 changes from the new branch
 
 rebase change1
+
+rebase change 2
